@@ -186,9 +186,9 @@ this function check first
     -close opend database command : close
 
 4-create your tables on a selected database
+    
     -tables quieres are case insensitive 
     -any string must not include space separator, tables names , columns names and columns values names if there names separated by space it will give you invalid arguments 
-    
     -create table command :  create table tableName col1Name col1_dType [col1_pk], col2_nanme col2_dType [col2_pk],..
     -display the difinition of the table : describe TableName 
     -list all tables in the DB :  show tables
