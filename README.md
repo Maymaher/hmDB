@@ -195,10 +195,10 @@ this function check first
     -drop existing table command : drop table tableName
 
 5-create your Data Manipulation commands
+
     -any string must not include space separator
     -all arguments of each command must be separated by space 
     -in insert statement to separate mutliple row values use comma (,)
-
     -insert row values into specific table :  insert into tableName values record1Values(col1_value col2_value col3_value), record2Values, ....
     -select data from specific table command : select colName/all from tableName [where condition] --> where colName = value
     -delete table or delete specific rows commands : delete from tableName [where condition] --> where colName = value 
