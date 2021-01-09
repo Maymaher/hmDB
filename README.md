@@ -171,11 +171,13 @@ this function check first
 1- you need to run hmDB-install.sh script in sudo mode to installs the environment needed tosetup and run the project
 
 2-then you need to run hmDB script in sudo mode to establishe the connection to your setuped database program, 
+
     -if you want to o establis connection in interactive mode use this command: hmDB connect -it
     -if you want to establish connection in one command mode use this command : hmDB connect
 
 
 3-create your databases 
+
     -you can create more than one database
     -database quieres are case insensitive (ex you can write create database databaseName or CREATE DATABASE databasename ,use databasename or USE databasename)
     -create database command : create database databaseName
