@@ -205,6 +205,7 @@ this function check first
     -update recordes on the table command : update tableName set colName = newValue [where condition] --> where colName = value 
 
 #ready to use 
+
 -you can use existing created database called hossam in DBs directory and it contains example for created table ,without setup the database 
 -you just run sudo ./hmDB connect -it and use it 
 
