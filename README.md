@@ -1,7 +1,7 @@
 # hmDB
 ---
 
-![demo](https://github.com/hossamkhalil01/hmDB/images/overview.gif)
+![demo](https://github.com/Maymaher/hmDB/blob/main/images/overview.gif)
 
 hmDB is a simple database engine designed using bash script for learning puroses, this engine can perform all basic database commands with a mySQL like syntax.
 
@@ -11,12 +11,13 @@ hmDB simulates the working of the basic operations for a DBMS (Database manageme
 ## Table of Contents
 
 <!-- TOC -->
+- [Table of Contents](#table-of-contents)
 - [Description](#description)
 - [Installation](#installation)
+- [Features](#features)
 - [How to Use](#how-to-use)
-  - [One Command Mode](one-command-mode)
-  - [Interactive Mode](interactive-mode)
-- [Features](features)
+    - [One Command Mode](#one-command-mode)
+    - [Interactive Mode](#interactive-mode)
 - [Dependencies](#dependencies)
 - [Limitations](#limitations)
 - [Possible Improvements](#possible-improvements)
@@ -143,7 +144,7 @@ sudo hmDB connect -it
 running this commad will result in entring you in interactive mode as follows
 
 
-![interactive-mode](https://github.com/hossamkhalil01/hmDB/images/interactive-mode.JPG)
+![interactive-mode](https://github.com/Maymaher/hmDB/blob/main/images/interactive-mode.JPG)
 
 in interactive mode the program will wait for you to enter your query and output the result and wait for another.
 
